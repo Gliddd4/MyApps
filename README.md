@@ -1,6 +1,6 @@
 # Update
 
-- Until further notice we are no longer updating this repo until Jan 7th. Cheers!
+- um
 
 # Tutorial
 
