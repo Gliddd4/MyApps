@@ -1,6 +1,6 @@
 # Update
 
-- repo is back ig
+- This IPA repo will no longer be updated. Enjoy whats on it until the hosting expires.
 
 # Tutorial
 
